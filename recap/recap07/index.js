@@ -1,0 +1,1 @@
+alert("El área del rectángulo es: " + (10 * 5));
